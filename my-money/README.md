@@ -1,3 +1,9 @@
+A finance tracker app to log expenses.
+
+
+Using firebase authentication for logging users in and out of the application, making custom react hooks to interact with different firebase services like firestore database.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
