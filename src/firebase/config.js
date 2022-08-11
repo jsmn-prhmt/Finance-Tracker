@@ -3,12 +3,12 @@ import 'firebase/firestore'
 import 'firebase/auth'
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAl1K6CkEyzUvmV_idEn51QUd_wkEt5imQ",
-  authDomain: "my-money-69aca.firebaseapp.com",
-  projectId: "my-money-69aca",
-  storageBucket: "my-money-69aca.appspot.com",
-  messagingSenderId: "875312260389",
-  appId: "1:875312260389:web:7bd5b4ea8bf096d4ed66cc"
+  apiKey: "AIzaSyAJrmelfm4dTV5eOhn3Z329iJ1Uz-SCkfo",
+  authDomain: "finance-logger-a21d7.firebaseapp.com",
+  projectId: "finance-logger-a21d7",
+  storageBucket: "finance-logger-a21d7.appspot.com",
+  messagingSenderId: "38215877352",
+  appId: "1:38215877352:web:e076aa687199dd6f30ff5d"
 };
 
 // init firebase
